@@ -88,7 +88,7 @@ if option.lower() == 'l':
     high = bmr - 500
     print(f"\nYou should eat between {int(low)} and {int(high)} calories per day in order to lose weight!\n")
 elif option.lower() == 'm':
-    print(f"\nYou should eat {int(bmr)} calories per day in order to maintain your weight!\n")
+    print(f"\nYou should eat {int(bmr)} calories per day in order to maintain your current weight!\n")
 elif option.lower() == 'g':
     low = bmr + 250
     high = bmr + 500
