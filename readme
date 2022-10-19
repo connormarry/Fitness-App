@@ -16,8 +16,13 @@ activity multiplier: sedentary = 1.2
                      very active = 1.725
                      extra active = 1.9
                      
+                     
+                     
 MealPlanner:
 
-1) ...
+1) TODO: find spreadsheet/file with a lot of macronutrient data for popular recipes
+2) find all combinations of 4 meals/day that satisfies a) calorie restrictions given in CaloriesChecker
+                                                       b) macronutrients
+3) outputs all possible options for the 4 meals and the total daily macros/calories
 
 
