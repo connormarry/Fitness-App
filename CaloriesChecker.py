@@ -1,3 +1,5 @@
+# Using existing functions for calculating caloric intake. Implemented in python 
+
 # initialize variables:
 gender, age, weight, height, activity, option = '', 0.0, 0.0, 0.0, 0, ''
 
