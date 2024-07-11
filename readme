@@ -1,3 +1,5 @@
+First thoughts: 
+
 This is just a side project for my own personal benefit that helps me practice coding in python
 
 CaloriesChecker:
@@ -27,4 +29,15 @@ MealPlanner:
                                                        b) macronutrients
 3) outputs all possible options for the 4 meals and the total daily macros/calories
 
+------------------------------------------
 
+07/11/24 thoughts:
+
+This app will have ...
+
+- a calorie calculator
+- a macronutrient calculator
+- an interactive calendar
+- a daily list view where the user can input exercises, sets, reps, weight, etc
+- a progress tab telling the user how they started vs how its going
+- potentially more features
