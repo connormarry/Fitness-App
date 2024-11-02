@@ -1,0 +1,27 @@
+version: "Apple Swift version 5.10 (swiftlang-5.10.0.13 clang-1500.3.9.4)"
+options: "d4e11bb153a7eb973e17300de6251fa1057260bd07b442723b9fb27f8c4b4782"
+build_start_time: [1717438843, 844862000]
+build_end_time: [1717438844, 583287000]
+inputs:
+  "/Users/connormarry/Desktop/Fitnext/Fitnext/Models/DailyItem.swift": !dirty [1717111469, 841665267]
+  "/Users/connormarry/Desktop/Fitnext/Fitnext/Models/User.swift": !dirty [1717128539, 808307145]
+  "/Users/connormarry/Desktop/Fitnext/Fitnext/Other/Extensions.swift": !dirty [1717128615, 803940773]
+  "/Users/connormarry/Desktop/Fitnext/Fitnext/Other/FitnextApp.swift": !dirty [1717105998, 577085969]
+  "/Users/connormarry/Desktop/Fitnext/Fitnext/ViewModels/CalendarViewViewModel.swift": !dirty [1717111378, 833872079]
+  "/Users/connormarry/Desktop/Fitnext/Fitnext/ViewModels/CalorieCalculatorViewViewModel.swift": !dirty [1717111398, 479992866]
+  "/Users/connormarry/Desktop/Fitnext/Fitnext/ViewModels/DailyItemsViewViewModel.swift": !dirty [1717111364, 828553199]
+  "/Users/connormarry/Desktop/Fitnext/Fitnext/ViewModels/HomeViewViewModel.swift": !dirty [1717111609, 177218198]
+  "/Users/connormarry/Desktop/Fitnext/Fitnext/ViewModels/LoginViewViewModel.swift": !dirty [1717128539, 884947512]
+  "/Users/connormarry/Desktop/Fitnext/Fitnext/ViewModels/MainViewViewModel.swift": !dirty [1717129652, 934988324]
+  "/Users/connormarry/Desktop/Fitnext/Fitnext/ViewModels/RegisterViewViewModel.swift": !dirty [1717128539, 845608046]
+  "/Users/connormarry/Desktop/Fitnext/Fitnext/Views/CalendarView.swift": !dirty [1717110187, 73309659]
+  "/Users/connormarry/Desktop/Fitnext/Fitnext/Views/CalorieCalculatorView.swift": !dirty [1717110235, 490110874]
+  "/Users/connormarry/Desktop/Fitnext/Fitnext/Views/DailyItemsView.swift": !dirty [1717106376, 832810640]
+  "/Users/connormarry/Desktop/Fitnext/Fitnext/Views/FNButton.swift": !dirty [1717116063, 8206578]
+  "/Users/connormarry/Desktop/Fitnext/Fitnext/Views/HeaderView.swift": !dirty [1717114778, 665959447]
+  "/Users/connormarry/Desktop/Fitnext/Fitnext/Views/HomeView.swift": !dirty [1717129783, 705966297]
+  "/Users/connormarry/Desktop/Fitnext/Fitnext/Views/LoginView.swift": !dirty [1717126327, 739940486]
+  "/Users/connormarry/Desktop/Fitnext/Fitnext/Views/MainView.swift": !dirty [1717129783, 757077487]
+  "/Users/connormarry/Desktop/Fitnext/Fitnext/Views/RegisterView.swift": !dirty [1717191790, 712880359]
+  ? "/Users/connormarry/Desktop/Fitnext/build/Fitnext.build/Release-iphonesimulator/Fitnext.build/DerivedSources/GeneratedAssetSymbols.swift"
+  : !dirty [1717438843, 728162131]

@@ -1,0 +1,115 @@
+{
+  "" : {
+    "const-values" : "/Users/connormarry/Desktop/Fitnext/build/Fitnext.build/Release-iphonesimulator/Fitnext.build/Objects-normal/x86_64/Fitnext-master.swiftconstvalues",
+    "dependencies" : "/Users/connormarry/Desktop/Fitnext/build/Fitnext.build/Release-iphonesimulator/Fitnext.build/Objects-normal/x86_64/Fitnext-master.d",
+    "diagnostics" : "/Users/connormarry/Desktop/Fitnext/build/Fitnext.build/Release-iphonesimulator/Fitnext.build/Objects-normal/x86_64/Fitnext-master.dia",
+    "emit-module-dependencies" : "/Users/connormarry/Desktop/Fitnext/build/Fitnext.build/Release-iphonesimulator/Fitnext.build/Objects-normal/x86_64/Fitnext-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/connormarry/Desktop/Fitnext/build/Fitnext.build/Release-iphonesimulator/Fitnext.build/Objects-normal/x86_64/Fitnext-master-emit-module.dia",
+    "swift-dependencies" : "/Users/connormarry/Desktop/Fitnext/build/Fitnext.build/Release-iphonesimulator/Fitnext.build/Objects-normal/x86_64/Fitnext-master.swiftdeps"
+  },
+  "/Users/connormarry/Desktop/Fitnext/build/Fitnext.build/Release-iphonesimulator/Fitnext.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "index-unit-output-path" : "/Fitnext.build/Release-iphonesimulator/Fitnext.build/Objects-normal/x86_64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/connormarry/Desktop/Fitnext/build/Fitnext.build/Release-iphonesimulator/Fitnext.build/Objects-normal/x86_64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/connormarry/Desktop/Fitnext/build/Fitnext.build/Release-iphonesimulator/Fitnext.build/Objects-normal/x86_64/GeneratedAssetSymbols.o"
+  },
+  "/Users/connormarry/Desktop/Fitnext/Fitnext/Models/DailyItem.swift" : {
+    "index-unit-output-path" : "/Fitnext.build/Release-iphonesimulator/Fitnext.build/Objects-normal/x86_64/DailyItem.o",
+    "llvm-bc" : "/Users/connormarry/Desktop/Fitnext/build/Fitnext.build/Release-iphonesimulator/Fitnext.build/Objects-normal/x86_64/DailyItem.bc",
+    "object" : "/Users/connormarry/Desktop/Fitnext/build/Fitnext.build/Release-iphonesimulator/Fitnext.build/Objects-normal/x86_64/DailyItem.o"
+  },
+  "/Users/connormarry/Desktop/Fitnext/Fitnext/Models/User.swift" : {
+    "index-unit-output-path" : "/Fitnext.build/Release-iphonesimulator/Fitnext.build/Objects-normal/x86_64/User.o",
+    "llvm-bc" : "/Users/connormarry/Desktop/Fitnext/build/Fitnext.build/Release-iphonesimulator/Fitnext.build/Objects-normal/x86_64/User.bc",
+    "object" : "/Users/connormarry/Desktop/Fitnext/build/Fitnext.build/Release-iphonesimulator/Fitnext.build/Objects-normal/x86_64/User.o"
+  },
+  "/Users/connormarry/Desktop/Fitnext/Fitnext/Other/Extensions.swift" : {
+    "index-unit-output-path" : "/Fitnext.build/Release-iphonesimulator/Fitnext.build/Objects-normal/x86_64/Extensions.o",
+    "llvm-bc" : "/Users/connormarry/Desktop/Fitnext/build/Fitnext.build/Release-iphonesimulator/Fitnext.build/Objects-normal/x86_64/Extensions.bc",
+    "object" : "/Users/connormarry/Desktop/Fitnext/build/Fitnext.build/Release-iphonesimulator/Fitnext.build/Objects-normal/x86_64/Extensions.o"
+  },
+  "/Users/connormarry/Desktop/Fitnext/Fitnext/Other/FitnextApp.swift" : {
+    "index-unit-output-path" : "/Fitnext.build/Release-iphonesimulator/Fitnext.build/Objects-normal/x86_64/FitnextApp.o",
+    "llvm-bc" : "/Users/connormarry/Desktop/Fitnext/build/Fitnext.build/Release-iphonesimulator/Fitnext.build/Objects-normal/x86_64/FitnextApp.bc",
+    "object" : "/Users/connormarry/Desktop/Fitnext/build/Fitnext.build/Release-iphonesimulator/Fitnext.build/Objects-normal/x86_64/FitnextApp.o"
+  },
+  "/Users/connormarry/Desktop/Fitnext/Fitnext/ViewModels/CalendarViewViewModel.swift" : {
+    "index-unit-output-path" : "/Fitnext.build/Release-iphonesimulator/Fitnext.build/Objects-normal/x86_64/CalendarViewViewModel.o",
+    "llvm-bc" : "/Users/connormarry/Desktop/Fitnext/build/Fitnext.build/Release-iphonesimulator/Fitnext.build/Objects-normal/x86_64/CalendarViewViewModel.bc",
+    "object" : "/Users/connormarry/Desktop/Fitnext/build/Fitnext.build/Release-iphonesimulator/Fitnext.build/Objects-normal/x86_64/CalendarViewViewModel.o"
+  },
+  "/Users/connormarry/Desktop/Fitnext/Fitnext/ViewModels/CalorieCalculatorViewViewModel.swift" : {
+    "index-unit-output-path" : "/Fitnext.build/Release-iphonesimulator/Fitnext.build/Objects-normal/x86_64/CalorieCalculatorViewViewModel.o",
+    "llvm-bc" : "/Users/connormarry/Desktop/Fitnext/build/Fitnext.build/Release-iphonesimulator/Fitnext.build/Objects-normal/x86_64/CalorieCalculatorViewViewModel.bc",
+    "object" : "/Users/connormarry/Desktop/Fitnext/build/Fitnext.build/Release-iphonesimulator/Fitnext.build/Objects-normal/x86_64/CalorieCalculatorViewViewModel.o"
+  },
+  "/Users/connormarry/Desktop/Fitnext/Fitnext/ViewModels/DailyItemsViewViewModel.swift" : {
+    "index-unit-output-path" : "/Fitnext.build/Release-iphonesimulator/Fitnext.build/Objects-normal/x86_64/DailyItemsViewViewModel.o",
+    "llvm-bc" : "/Users/connormarry/Desktop/Fitnext/build/Fitnext.build/Release-iphonesimulator/Fitnext.build/Objects-normal/x86_64/DailyItemsViewViewModel.bc",
+    "object" : "/Users/connormarry/Desktop/Fitnext/build/Fitnext.build/Release-iphonesimulator/Fitnext.build/Objects-normal/x86_64/DailyItemsViewViewModel.o"
+  },
+  "/Users/connormarry/Desktop/Fitnext/Fitnext/ViewModels/HomeViewViewModel.swift" : {
+    "index-unit-output-path" : "/Fitnext.build/Release-iphonesimulator/Fitnext.build/Objects-normal/x86_64/HomeViewViewModel.o",
+    "llvm-bc" : "/Users/connormarry/Desktop/Fitnext/build/Fitnext.build/Release-iphonesimulator/Fitnext.build/Objects-normal/x86_64/HomeViewViewModel.bc",
+    "object" : "/Users/connormarry/Desktop/Fitnext/build/Fitnext.build/Release-iphonesimulator/Fitnext.build/Objects-normal/x86_64/HomeViewViewModel.o"
+  },
+  "/Users/connormarry/Desktop/Fitnext/Fitnext/ViewModels/LoginViewViewModel.swift" : {
+    "index-unit-output-path" : "/Fitnext.build/Release-iphonesimulator/Fitnext.build/Objects-normal/x86_64/LoginViewViewModel.o",
+    "llvm-bc" : "/Users/connormarry/Desktop/Fitnext/build/Fitnext.build/Release-iphonesimulator/Fitnext.build/Objects-normal/x86_64/LoginViewViewModel.bc",
+    "object" : "/Users/connormarry/Desktop/Fitnext/build/Fitnext.build/Release-iphonesimulator/Fitnext.build/Objects-normal/x86_64/LoginViewViewModel.o"
+  },
+  "/Users/connormarry/Desktop/Fitnext/Fitnext/ViewModels/MainViewViewModel.swift" : {
+    "index-unit-output-path" : "/Fitnext.build/Release-iphonesimulator/Fitnext.build/Objects-normal/x86_64/MainViewViewModel.o",
+    "llvm-bc" : "/Users/connormarry/Desktop/Fitnext/build/Fitnext.build/Release-iphonesimulator/Fitnext.build/Objects-normal/x86_64/MainViewViewModel.bc",
+    "object" : "/Users/connormarry/Desktop/Fitnext/build/Fitnext.build/Release-iphonesimulator/Fitnext.build/Objects-normal/x86_64/MainViewViewModel.o"
+  },
+  "/Users/connormarry/Desktop/Fitnext/Fitnext/ViewModels/RegisterViewViewModel.swift" : {
+    "index-unit-output-path" : "/Fitnext.build/Release-iphonesimulator/Fitnext.build/Objects-normal/x86_64/RegisterViewViewModel.o",
+    "llvm-bc" : "/Users/connormarry/Desktop/Fitnext/build/Fitnext.build/Release-iphonesimulator/Fitnext.build/Objects-normal/x86_64/RegisterViewViewModel.bc",
+    "object" : "/Users/connormarry/Desktop/Fitnext/build/Fitnext.build/Release-iphonesimulator/Fitnext.build/Objects-normal/x86_64/RegisterViewViewModel.o"
+  },
+  "/Users/connormarry/Desktop/Fitnext/Fitnext/Views/CalendarView.swift" : {
+    "index-unit-output-path" : "/Fitnext.build/Release-iphonesimulator/Fitnext.build/Objects-normal/x86_64/CalendarView.o",
+    "llvm-bc" : "/Users/connormarry/Desktop/Fitnext/build/Fitnext.build/Release-iphonesimulator/Fitnext.build/Objects-normal/x86_64/CalendarView.bc",
+    "object" : "/Users/connormarry/Desktop/Fitnext/build/Fitnext.build/Release-iphonesimulator/Fitnext.build/Objects-normal/x86_64/CalendarView.o"
+  },
+  "/Users/connormarry/Desktop/Fitnext/Fitnext/Views/CalorieCalculatorView.swift" : {
+    "index-unit-output-path" : "/Fitnext.build/Release-iphonesimulator/Fitnext.build/Objects-normal/x86_64/CalorieCalculatorView.o",
+    "llvm-bc" : "/Users/connormarry/Desktop/Fitnext/build/Fitnext.build/Release-iphonesimulator/Fitnext.build/Objects-normal/x86_64/CalorieCalculatorView.bc",
+    "object" : "/Users/connormarry/Desktop/Fitnext/build/Fitnext.build/Release-iphonesimulator/Fitnext.build/Objects-normal/x86_64/CalorieCalculatorView.o"
+  },
+  "/Users/connormarry/Desktop/Fitnext/Fitnext/Views/DailyItemsView.swift" : {
+    "index-unit-output-path" : "/Fitnext.build/Release-iphonesimulator/Fitnext.build/Objects-normal/x86_64/DailyItemsView.o",
+    "llvm-bc" : "/Users/connormarry/Desktop/Fitnext/build/Fitnext.build/Release-iphonesimulator/Fitnext.build/Objects-normal/x86_64/DailyItemsView.bc",
+    "object" : "/Users/connormarry/Desktop/Fitnext/build/Fitnext.build/Release-iphonesimulator/Fitnext.build/Objects-normal/x86_64/DailyItemsView.o"
+  },
+  "/Users/connormarry/Desktop/Fitnext/Fitnext/Views/FNButton.swift" : {
+    "index-unit-output-path" : "/Fitnext.build/Release-iphonesimulator/Fitnext.build/Objects-normal/x86_64/FNButton.o",
+    "llvm-bc" : "/Users/connormarry/Desktop/Fitnext/build/Fitnext.build/Release-iphonesimulator/Fitnext.build/Objects-normal/x86_64/FNButton.bc",
+    "object" : "/Users/connormarry/Desktop/Fitnext/build/Fitnext.build/Release-iphonesimulator/Fitnext.build/Objects-normal/x86_64/FNButton.o"
+  },
+  "/Users/connormarry/Desktop/Fitnext/Fitnext/Views/HeaderView.swift" : {
+    "index-unit-output-path" : "/Fitnext.build/Release-iphonesimulator/Fitnext.build/Objects-normal/x86_64/HeaderView.o",
+    "llvm-bc" : "/Users/connormarry/Desktop/Fitnext/build/Fitnext.build/Release-iphonesimulator/Fitnext.build/Objects-normal/x86_64/HeaderView.bc",
+    "object" : "/Users/connormarry/Desktop/Fitnext/build/Fitnext.build/Release-iphonesimulator/Fitnext.build/Objects-normal/x86_64/HeaderView.o"
+  },
+  "/Users/connormarry/Desktop/Fitnext/Fitnext/Views/HomeView.swift" : {
+    "index-unit-output-path" : "/Fitnext.build/Release-iphonesimulator/Fitnext.build/Objects-normal/x86_64/HomeView.o",
+    "llvm-bc" : "/Users/connormarry/Desktop/Fitnext/build/Fitnext.build/Release-iphonesimulator/Fitnext.build/Objects-normal/x86_64/HomeView.bc",
+    "object" : "/Users/connormarry/Desktop/Fitnext/build/Fitnext.build/Release-iphonesimulator/Fitnext.build/Objects-normal/x86_64/HomeView.o"
+  },
+  "/Users/connormarry/Desktop/Fitnext/Fitnext/Views/LoginView.swift" : {
+    "index-unit-output-path" : "/Fitnext.build/Release-iphonesimulator/Fitnext.build/Objects-normal/x86_64/LoginView.o",
+    "llvm-bc" : "/Users/connormarry/Desktop/Fitnext/build/Fitnext.build/Release-iphonesimulator/Fitnext.build/Objects-normal/x86_64/LoginView.bc",
+    "object" : "/Users/connormarry/Desktop/Fitnext/build/Fitnext.build/Release-iphonesimulator/Fitnext.build/Objects-normal/x86_64/LoginView.o"
+  },
+  "/Users/connormarry/Desktop/Fitnext/Fitnext/Views/MainView.swift" : {
+    "index-unit-output-path" : "/Fitnext.build/Release-iphonesimulator/Fitnext.build/Objects-normal/x86_64/MainView.o",
+    "llvm-bc" : "/Users/connormarry/Desktop/Fitnext/build/Fitnext.build/Release-iphonesimulator/Fitnext.build/Objects-normal/x86_64/MainView.bc",
+    "object" : "/Users/connormarry/Desktop/Fitnext/build/Fitnext.build/Release-iphonesimulator/Fitnext.build/Objects-normal/x86_64/MainView.o"
+  },
+  "/Users/connormarry/Desktop/Fitnext/Fitnext/Views/RegisterView.swift" : {
+    "index-unit-output-path" : "/Fitnext.build/Release-iphonesimulator/Fitnext.build/Objects-normal/x86_64/RegisterView.o",
+    "llvm-bc" : "/Users/connormarry/Desktop/Fitnext/build/Fitnext.build/Release-iphonesimulator/Fitnext.build/Objects-normal/x86_64/RegisterView.bc",
+    "object" : "/Users/connormarry/Desktop/Fitnext/build/Fitnext.build/Release-iphonesimulator/Fitnext.build/Objects-normal/x86_64/RegisterView.o"
+  }
+}
