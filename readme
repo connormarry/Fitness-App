@@ -36,8 +36,21 @@ MealPlanner:
 This app will have ...
 
 - a calorie calculator
-- a macronutrient calculator
 - an interactive calendar
 - a daily list view where the user can input exercises, sets, reps, weight, etc
 - a progress tab telling the user how they started vs how its going
 - potentially more features
+
+11/02/24 thoughts:
+
+This app has ...
+
+- a calorie calculator
+- an interactive calendar
+- a daily list view
+
+This app needs ...
+
+- improved UI
+- a progress tab which shows progress from start week, present, and sets reasonable goal recommendations for next week
+- improved options for prefilling daily list view headers (push day every week, every 3 days, etc). This will help with the progress tab too
